@@ -2,7 +2,7 @@
 
 Bu proje, Netflix'in temel arayüzünü taklit eden bir Netflix Clone projesidir. HTML ve CSS kullanılarak oluşturulmuş olup responsive tasarıma sahiptir.
 
-✨ ## Özellikler
+ ## ✨ Özellikler
 
 Responsive Tasarım: Tüm cihazlarda uyumlu görünüyor.
 
@@ -10,13 +10,13 @@ Modern UI: Netflix'in orijinal tasarımına benzer bir kullanıcı arayüzü.
 
 CSS Grid ve Flexbox: Düzenleme için kullanılmıştır.
 
-📚 ## Kullanılan Teknolojiler
+## 📚 Kullanılan Teknolojiler
 
 * HTML5
 
 * CSS3
 
-✨ ## Kurulum
+## ✨ Kurulum
 
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
@@ -30,15 +30,15 @@ cd netflix-clone
 
 index.html dosyasını tarayıcınızda açın.
 
-🚀 ## Ekran Görüntüleri
+## 🚀 Ekran Görüntüleri
 
 Proje arayüzüne dair ekran görüntülerini buraya ekleyebilirsiniz.
 
-👤 ## Katkıda Bulunma
+## 👤 Katkıda Bulunma
 
 Eğer projeye katkıda bulunmak isterseniz, lütfen pull request açabilirsiniz.
 
-🌐 ## Canlı Önizleme
+## 🌐 Canlı Önizleme
 
 [Buraya projenin canlı halinin linkini ekleyebilirsin]
 
