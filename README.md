@@ -43,7 +43,7 @@ Eğer projeye katkıda bulunmak isterseniz pull request açabilirsiniz.
 ## 🌐 Canlı Önizleme
 
 
-[project preview](./project-views/netflix-clone.gif)
+![](./project-views/netflix-clone.gif)
 
 
 _Bu proje, yalnızca eğitim amaçlı geliştirilmiştir ve ticari bir amacı yoktur._
