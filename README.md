@@ -32,15 +32,17 @@ index.html dosyasını tarayıcınızda açın.
 
 ## 🚀 Ekran Görüntüleri
 
-Proje arayüzüne dair ekran görüntülerini buraya ekleyebilirsiniz.
+![netflix-clone-1](./project-views/netflix-clone-1.png)
+![netflix-clone-mobile](./project-views/netflix-clone-mobile.png)
+
 
 ## 👤 Katkıda Bulunma
 
-Eğer projeye katkıda bulunmak isterseniz, lütfen pull request açabilirsiniz.
+Eğer projeye katkıda bulunmak isterseniz pull request açabilirsiniz.
 
 ## 🌐 Canlı Önizleme
 
-[Buraya projenin canlı halinin linkini ekleyebilirsin]
+[project preview](./project-views/netflix-clone.gif)
 
 _Bu proje, yalnızca eğitim amaçlı geliştirilmiştir ve ticari bir amacı yoktur._
 
